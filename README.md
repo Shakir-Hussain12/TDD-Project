@@ -1,95 +1,100 @@
-<!-- TABLE OF CONTENTS -->
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <h1><b>TDD-Project</b></h1>
+
+</div>
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 OOP School library ](#-oop-school-library-)
+- [💻 TDD-project ](#-tdd-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
+    - [Prerequisite](#prerequisite)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-<!-- PROJECT DESCRIPTION -->
+# 💻 TDD-project <a name="about-project"></a>
 
-# 📖 OOP School library <a name="about-project"></a>
-
-**OOP School library** is an application designed to maintain a comprehensive record of books available in a library and track their borrowing status. Additionally, the app enables users to add new students or teachers, as well as books, and keep a record of who has borrowed a particular book."
+> **TDD-project** This is a ruby app is for Test Driven Development, where a software development process relying on software requirements being converted to test cases before software is fully developed,
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+> I used Ruby to build this project.
+
 <details>
-<summary>Programming Language</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="https://guides.rubyonrails.org/getting_started.html">Ruby</a></li>
+    <li>Ruby</li>
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- **Add new students or teachers.**
-- **Add new books.**
-- **Save records of who borrowed a given book and when.**
+> Some key feature of this project
+> Features
+
+- **TDD**
+- **TDD**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> ## Project demo
+>
+> Site is under construction and the Project Demo will update soon.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps:
+> Please follow the instructions to clone the repo
+> To get a local copy, follow these simple example steps.
+> Clone this repository or download the Zip folder:
 
-- Create a local directory where you can clone the project
-- Clone the project to your directory by running
-  - `git clone git@github.com:uchexm/OOP-School-library.git`
-- Run the code with ruby
-
-### Prerequisites
-
-In order to run this project you need:
-
-- Git and GitHub
-- A code editor
-- Ruby
+### Prerequisite
 
 ### Setup
 
-Clone this repository to your desired folder:
+> Clone this repository to your desired folder: cd [folder] to navigate and run the below comand to clone the project
 
-- Create a local directory where you can clone the project
-- Clone the project to your directory by running
-  - `git clone git@github.com:uchexm/OOP-School-library.git`
+```sh
+git clone git@github.com:Shakir-Hussain12/TDD-Project.git
+```
+
+> and then run the app using the following command
+
+```sh
+ruby main.rb
+```
 
 ### Install
 
 Install this project with:
 
-- GitHub Actions
-- Linters
-- Rubocop
-- Ruby
+download the gem packages
+
+```sh
+gem install rspec
+```
 
 ### Usage
 
-- Use this project as a step to learning to practice building backend applications with Ruby and OOP concepts.
-- > run `irb` from the terminal"
-- > then rb(main):001:0> `require_relative './main.rb'` (the file you want to test `eg './app.rb'`)
-- > => true (this will show) press enter
-- > then irb(main):002:0> `make_person` (the method you want to test)
-- > follow the prompts
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -109,40 +114,26 @@ Install this project with:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Improve UI**
-- [ ] **Add study funcionality**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/uchexm/OOP-School-library/issues).
+Feel free to check the [issues page](https://github.com/Shakir-Hussain12/TDD-Project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project kindly leave a ⭐
+> Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for the great resources shared.
+> Without Microverse Help this project not completed at all so thanks a lot Microverse for giving us this kind of opportunity.
+> Gratitude goes to MICROVERSE organisation for this amazing opportunity
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
