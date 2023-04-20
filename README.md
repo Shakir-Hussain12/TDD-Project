@@ -79,7 +79,7 @@ git clone git@github.com:Shakir-Hussain12/TDD-Project.git
 > and then run the app using the following command
 
 ```sh
-ruby main.rb
+ruby solver.rb
 ```
 
 ### Install
@@ -98,6 +98,12 @@ gem install rspec
 
 ## 👥 Authors <a name="authors"></a>
 
+- -👤 **Shakir-Hussain**
+
+- GitHub: [@Shakir-Hussain12](https://github.com/Shakir-Hussain12)
+- Twitter: [@S_Hussain_99](https://twitter.com/S_Hussain_99)
+- LinkedIn: [shakir-hussain99](https://www.linkedin.com/in/shakir-hussain99/)
+
 - -👤 **Uchechi Nwaka**
 
 - -- GitHub: [@uchexm](https://github.com/uchexm)
@@ -105,12 +111,6 @@ gem install rspec
   -- LinkedIn: [@nwakauc](https://www.linkedin.com/in/nwakauc/)
 
   -- Twiter [@nwakauc](https://twitter.com/Nwakauc)
-
-- -👤 **Shakir-Hussain**
-
-- GitHub: [@Shakir-Hussain12](https://github.com/Shakir-Hussain12)
-- Twitter: [@S_Hussain_99](https://twitter.com/S_Hussain_99)
-- LinkedIn: [shakir-hussain99](https://www.linkedin.com/in/shakir-hussain99/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
