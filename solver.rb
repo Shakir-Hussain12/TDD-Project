@@ -1,11 +1,15 @@
 class Solver
   def factorial(num)
-    i = 1
-    while num.positive?
-      i *= num
-      num -= 1
+    if num.negative?
+      "number can't be negative"
+    else
+      i = 1
+      while num.positive?
+        i *= num
+        num -= 1
+      end
+      i
     end
-    i
   end
 
   def reverse(word)
@@ -25,6 +29,7 @@ class Solver
   end
 end
 solve = Solver.new
+puts solve.factorial(-2)
 puts solve.factorial(5)
 puts solve.reverse('Shakir')
 puts solve.fizzbuzz(3)
